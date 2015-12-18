@@ -1,5 +1,14 @@
+////////////////////////////////////////////////////////////////////
+// Extra Functions Library                                        //
+// Part of Games Math library                                     //
+// Authors: KindarConrath                                        //
+////////////////////////////////////////////////////////////////////
+
 #ifndef THELIBRARY_H
 #define THELIBRARY_H
+
+#include "Quaternion.h"
+#include "Matrix.h"
 
 #define PI acos((long double) -1)
 
@@ -12,5 +21,6 @@ enum Axis
 
 double degToRad(double deg);
 double radToDeg(double rad);
+
 
 #endif // !THELIBRARY_H

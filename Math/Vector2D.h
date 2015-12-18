@@ -1,3 +1,9 @@
+////////////////////////////////////////////////////////////////////
+// 2 Dimensional Vector Mathematix Library                        //
+// Part of Games Math library                                     //
+// Authors: KindarConrath                                        //
+////////////////////////////////////////////////////////////////////
+
 #ifndef VECTOR2D_H
 #define VECTOR2D_H
 

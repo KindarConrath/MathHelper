@@ -1,3 +1,9 @@
+////////////////////////////////////////////////////////////////////
+// Quaternion Mathematix Library                                  //
+// Part of Games Math library                                     //
+// Authors: KindarConrath                                        //
+////////////////////////////////////////////////////////////////////
+
 #ifndef QUATERNION_H
 #define QUATERNION_H
 

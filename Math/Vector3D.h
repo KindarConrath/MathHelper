@@ -1,3 +1,9 @@
+////////////////////////////////////////////////////////////////////
+// 3 Dimensional Vector Mathematix Library                        //
+// Part of Games Math library                                     //
+// Authors: KindarConrath                                        //
+////////////////////////////////////////////////////////////////////
+
 #ifndef VECTOR3D_H
 #define VECTOR3D_H
 

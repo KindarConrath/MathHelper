@@ -18,20 +18,20 @@ There are examples of the GUI from the original project in the Examples folder. 
 
 My end goal is to have a 3D window for point plotting and graphing of formulas based on these numbers.
 
-First: Fill out all Math libraries
+### First: Fill out all Math libraries
 
 * Matrix
 * Vector2D
 * Vector3D
 * Quaternion (Vector4D)
 
-Second: Add Anything that people feel is missing
+### Second: Add Anything that people feel is missing
 
-Third: Work on an perliminary GUI, I would like to see it more powerful AND more user friendly than the old one. Dynamic would be nice, something that isn't simply static, but that is intuitive and dynamic for the user.
+### Third: Work on an perliminary GUI, I would like to see it more powerful AND more user friendly than the old one. Dynamic would be nice, something that isn't simply static, but that is intuitive and dynamic for the user.
 
-Fourth: Bug Testing - make sure that everything works the way it is supposed to, this can be tricky because some of the math (I'm looking at you Quaternions) has a lot of steps.
+### Fourth: Bug Testing - make sure that everything works the way it is supposed to, this can be tricky because some of the math (I'm looking at you Quaternions) has a lot of steps.
 
-Fifth: Graphical - At this point I would like to start looking at how we can produce grahpical representations of everything, display it in a view for the user to get some idea what it means.  This might mean significant enhancements to the program, including several graphing functions, and a 3D control scheme.  This will probably be one of the hardest parts to keep within my platform wishes, unless we specifically go openGL for the graphics.
+### Fifth: Graphical - At this point I would like to start looking at how we can produce grahpical representations of everything, display it in a view for the user to get some idea what it means.  This might mean significant enhancements to the program, including several graphing functions, and a 3D control scheme.  This will probably be one of the hardest parts to keep within my platform wishes, unless we specifically go openGL for the graphics.
 
 ## PLATFORM WISHES
 
